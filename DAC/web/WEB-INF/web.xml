@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>ControllerServlet</servlet-name>
+        <servlet-class>controller.ControllerServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ControllerServlet</servlet-name>
+        
+        <url-pattern>/AccueilG</url-pattern>
+        <url-pattern>/AchatsG</url-pattern>
+        <url-pattern>/LocationG</url-pattern>
+        <url-pattern>/FideliteG</url-pattern>
+        <url-pattern>/ServicesG</url-pattern>
+        <url-pattern>/SAVG</url-pattern>
+        <url-pattern>/ProduitG</url-pattern>
+        
+        <url-pattern>/AccueilC</url-pattern>
+        <url-pattern>/AchatsC</url-pattern>
+        <url-pattern>/LocationC</url-pattern>
+        <url-pattern>/FideliteC</url-pattern>
+        <url-pattern>/ServicesC</url-pattern>
+        <url-pattern>/SAVC</url-pattern>
+        <url-pattern>/ProduitC</url-pattern>
+        
+        <url-pattern>/Connexion</url-pattern>
+   
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
