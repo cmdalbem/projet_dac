@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,16 +55,16 @@
 			<div class="catalogue">
 				<div class="selection">
 					<div class="list-group">
-						<a href"#" class="list-group-item">VTT</a>
-						<a href"#" class="list-group-item">Vélos de route</a>
-						<a href"#" class="list-group-item">Vêtements</a>
-						<a href"#" class="list-group-item">Equipement</a>
-						<a href"#" class="list-group-item">Pièces détachées</a>
+						<a href="#" class="list-group-item">VTT</a>
+						<a href="#" class="list-group-item">Vélos de route</a>
+						<a href="#" class="list-group-item">Vêtements</a>
+						<a href="#" class="list-group-item">Equipement</a>
+						<a href="#" class="list-group-item">Pièces détachées</a>
 					</div>				
 				</div>
 				<div class="produits">
 					<div class="produit">
-						<img class="produit" src="css/Images/velo.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							20,00€
 						</div>
@@ -73,7 +74,7 @@
 						</div>
 					</div>				
 					<div class="produit">
-						<img class="produit" src="css/Images/vtt.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -83,7 +84,7 @@
 						</div>
 					</div>								
 					<div class="produit">
-						<img class="produit" src="css/Images/vtt.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -93,7 +94,7 @@
 						</div>
 					</div>						
 					<div class="produit">
-						<img class="produit" src="css/Images/vtt.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -103,7 +104,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/vtt.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -113,7 +114,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/velo.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							20,00€
 						</div>
@@ -123,7 +124,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/vtt.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -133,7 +134,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/velo.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitC"><img class="produit" src="css/Images/velo.jpg" alt="Produit"> </a>
 						<div class="prix">
 							20,00€
 						</div>

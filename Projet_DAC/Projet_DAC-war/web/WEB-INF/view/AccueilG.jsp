@@ -1,23 +1,24 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-        <title>Glisse\&AMP;Ski : Accueil </title>
+        <title>Glisse&AMP;Ski : Accueil </title>
 
-	<link rel="stylesheet" title="style1" type="text/css" href="css/BaseC.css" >
-	<link rel="stylesheet" title="style1" type="text/css" href="css/AccueilC.css" >
+	<link rel="stylesheet" title="style1" type="text/css" href="css/BaseG.css" >
+	<link rel="stylesheet" title="style1" type="text/css" href="css/AccueilG.css" >
 	<link rel="stylesheet" title="style1" type="text/css" href="css/bootstrap/css/bootstrap.min.css">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="author" content="Nicob">
-        <meta name="description" content="Accueil de Glisse\&AMP;Cycles.">
+        <meta name="description" content="Accueil de Glisse&AMP;Cycles.">
 </head>
 
 <body>
 	<div class="page">
 		<div class='bandeau'>
 			<div class="logo">
-				<a href="AccueilC">
+				<a href="AccueilG">
 					<img src="css/Images/logo.jpg" class='imglogo'>
 				</a>
 			</div>
@@ -28,11 +29,11 @@
 				</div>
 				<div class='menu'>
 					<ul class='nav nav-pills'>
-						<li> <a href="AchatsC">Achats en ligne</a> </li>
-						<li> <a href='LocationC'>Location</a></li>
-						<li> <a href='FideliteC'>Carte de fidélité</a> </li>
-						<li> <a href='SAVC'>SAV</a> </li>
-						<li> <a href='ServicesC'>Services</a> </li>
+						<li> <a href="AchatsG">Achats en ligne</a> </li>
+						<li> <a href='LocationG'>Location</a></li>
+						<li> <a href='FideliteG'>Carte de fidélité</a> </li>
+						<li> <a href='SAVG'>SAV</a> </li>
+						<li> <a href='ServicesG'>Services</a> </li>
 					</ul>
 				</div>
 			</div>
@@ -41,10 +42,10 @@
 		<div class="contenu">
 			<div class="espace">
 				<div class="cycles">
-					<p class="espace"> Espace cycles</p>
+					<a class="espace" href="AccueilC"> Espace cycles</a>
 				</div>
 				<div class="glisse">
-					<a class="espace" href="AccueilG"> Espace glisse</a>
+					<p class="espace"> Espace glisse</p>
 				</div>
 			</div>
 			<div class="pub">
@@ -53,22 +54,22 @@
 					Bénéficiez de réductions sur tous nos produits!
 					</p>
 					<p class="fidelite">
-					Adoptez notre <a href='FideliteC'><em>programme de fidélité</em></a>!!
+					Adoptez notre <a href='FideliteG'><em>programme de fidélité</em></a>!!
 					</p>
 				</div>
-				<a href='FideliteC'><img class="fidelite" alt="carte de fidelite" src="css/Images/fidelite.jpg"></a>
+				<a href='FideliteG'><img class="fidelite" alt="carte de fidelite" src="css/Images/fidelite.jpg"></a>
 				
 			</div>
 			<div class="promo">
 				<p>Articles les plus populaires</p>
 				<div class="article">
-					<img class="article" src="css/Images/velo.jpg" alt="Article populaire 1" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 1"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/velo.jpg" alt="Article populaire 2" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 2"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/velo.jpg" alt="Article populaire 3" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 3"> </a>
 				</div>
 			</div>
 		</div>

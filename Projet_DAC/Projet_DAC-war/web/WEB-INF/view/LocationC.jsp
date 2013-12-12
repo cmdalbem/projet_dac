@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,17 +149,16 @@
 			
 			
 			
-			
 			<div class="promo">
 				<p>Articles les plus populaires</p>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 1" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 1"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 2" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 2"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 3" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 3"> </a>
 				</div>
 			</div>
 		</div>

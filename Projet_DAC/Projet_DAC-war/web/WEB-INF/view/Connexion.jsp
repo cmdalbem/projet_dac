@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,15 +52,15 @@
 			<div class="identification">
 				<div class="conditions">
 					<p> <h1 class="titre">Utilisation de nos services</h1>						
-                                        Les services sont fournis par Glisse\&AMP;Cycles. 
-					L’utilisation de nos Services implique votre acceptation des présentes Conditions d’Utilisation. 
-					N’utilisez pas nos Services de façon impropre. Ne tentez pas, par exemple, de produire des interférences avec nos Services ou d’y accéder en utilisant une méthode autre que l’interface et les instructions que nous mettons à votre disposition. 
+                                        Les services sont fournis par Glisse&AMP;Cycles. 
+					L'utilisation de nos Services implique votre acceptation des présentes Conditions d'Utilisation. 
+					N'utilisez pas nos Services de façon impropre. Ne tentez pas, par exemple, de produire des interférences avec nos Services ou d'y accéder en utilisant une méthode autre que l'interface et les instructions que nous mettons à votre disposition. 
                                         Vous ne devez utiliser nos Services que dans le respect des lois en vigueur, y compris les lois et réglementations applicables concernant le contrôle des exportations et ré-exportations. 
-                                        Nous pouvons suspendre ou cesser la fourniture de nos Services si vous ne respectez pas les conditions ou règlements applicables, ou si nous examinons une suspicion d’utilisation impropre.
+                                        Nous pouvons suspendre ou cesser la fourniture de nos Services si vous ne respectez pas les conditions ou réglements applicables, ou si nous examinons une suspicion d'utilisation impropre.
 					</p>
-					<p> <h1 class="titre">Protection de la vie privée et des droits d’auteur</h1>
-						Glisse\&AMP;Cycles garantit la confidentialité des informations personnelles.
-						En utilisant nos Services, vous acceptez que Glisse\&AMP;Cycles puisse utiliser ces données.</p>
+					<p> <h1 class="titre">Protection de la vie privée et des droits d'auteur</h1>
+						Glisse&AMP;Cycles garantit la confidentialité des informations personnelles.
+						En utilisant nos Services, vous acceptez que Glisse&AMP;Cycles puisse utiliser ces données.</p>
 				</div>
 				<div class="login">
 					<form class="form-signin">
@@ -77,13 +78,13 @@
 			<div class="promo">
 				<p>Articles les plus populaires</p>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 1" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 1"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 2" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 2"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 3" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 3"> </a>
 				</div>
 			</div>
 		</div>

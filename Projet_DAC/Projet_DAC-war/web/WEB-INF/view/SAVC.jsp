@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,7 +51,7 @@
 			
 			<div class="SAV">
 				<div class="texte">
-					<p>Si une des situations ci-dessous correspond à la vôtre, vous pouvez bénéficiez de notre Service Après Vente :
+					<p>Si une des situations ci-dessous correspond à la votre, vous pouvez bénéficiez de notre Service Après Vente :
 						<ul>
 							<li><p>Cassé</p></li>
 							<li><p>Abimé</p></li>
@@ -60,7 +61,7 @@
 						</ul>
 					</p>
 					<p> Veuillez nous retourner le produit à l'adresse suivante : </p>
-					<p class="adresse">401 Avenue du ski<br>
+					<p class="adresse">401 Avenue de la Montagne<br>
 					74400 Chamonix</p>
 				</div>			
 			</div>			
@@ -69,13 +70,13 @@
 			<div class="promo">
 				<p>Articles les plus populaires</p>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 1" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 1"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 2" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 2"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 3" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 3"> </a>
 				</div>
 			</div>
 		</div>

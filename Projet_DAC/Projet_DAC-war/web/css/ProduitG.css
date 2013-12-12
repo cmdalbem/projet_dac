@@ -1,0 +1,63 @@
+div.produit {
+        padding : 50px;
+	margin-top : 20px;
+	margin-bottom : 20px;
+	background-color : rgba(255,192,203,0.7);
+        height : 500px;
+}
+
+div.image{
+        width : 40%;
+       display : inline-block;
+}
+
+div.infos {
+       float: right;
+       width : 48%;
+       height : 70%;
+       display : inline-block;
+}   
+
+img.produit {
+	margin : auto;
+	height : 400px;
+	width : 400px;
+	border-style : solid;
+	border-width : 3px;
+	border-color : black;
+}
+
+div.description {
+	width : 90%;
+        height : 70%;
+        float : left;
+        display : inline-block;
+        margin-bottom : 5px;
+}
+
+div.prix {
+	font-size : 24px;
+        font-weight: bold;
+        color : blue;
+}
+
+div.info {
+}
+
+div.commentaires {
+        width : 90%;
+        height : 70%;
+        float : left;
+        display : none;
+        margin-bottom : 5px;
+
+}
+
+div.boutons {
+        display : inline-block;
+        margin-top : 5px;
+        margin-left : auto;
+        margin-right : auto;
+        width : 90%;
+}
+

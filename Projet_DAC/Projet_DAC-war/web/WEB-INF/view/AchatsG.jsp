@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +64,7 @@
 				</div>
 				<div class="produits">
 					<div class="produit">
-						<img class="produit" src="css/Images/skis.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -73,7 +74,7 @@
 						</div>
 					</div>				
 					<div class="produit">
-						<img class="produit" src="css/Images/skis2.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -83,7 +84,7 @@
 						</div>
 					</div>								
 					<div class="produit">
-						<img class="produit" src="css/Images/skis.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -93,7 +94,7 @@
 						</div>
 					</div>						
 					<div class="produit">
-						<img class="produit" src="css/Images/skis2.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -103,7 +104,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/skis2.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -113,7 +114,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/skis2.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -123,7 +124,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/skis2.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -133,7 +134,7 @@
 						</div>
 					</div>							
 					<div class="produit">
-						<img class="produit" src="css/Images/skis2.jpg" alt="Produit" href'#'>
+                                            <a href="ProduitG"><img class="produit" src="css/Images/skis.jpg" alt="Produit"> </a>
 						<div class="prix">
 							40,00€
 						</div>
@@ -152,13 +153,13 @@
 			<div class="promo">
 				<p>Articles les plus populaires</p>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 1" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 1"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 2" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 2"> </a>
 				</div>
 				<div class="article">
-					<img class="article" src="css/Images/skis.jpg" alt="Article populaire 3" href='#'>
+                                        <a href="ProduitG"><img class="article" src="css/Images/skis.jpg" alt="Article populaire 3"> </a>
 				</div>
 			</div>
 		</div>
