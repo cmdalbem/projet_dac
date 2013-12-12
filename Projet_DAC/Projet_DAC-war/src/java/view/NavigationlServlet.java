@@ -33,6 +33,10 @@ import javax.servlet.http.HttpServletResponse;
                        "/ServicesC",
                        "/ProduitG",
                        "/ProduitC",
+                       "/Panier",
+                       "/Historique",
+                       "/CritereLocationG",
+                       "/CritereLocationC",
         })
 public class NavigationlServlet extends HttpServlet {
 
@@ -66,6 +70,10 @@ public class NavigationlServlet extends HttpServlet {
                 || userPath.equals("/ServicesC")
                 || userPath.equals("/ProduitG")
                 || userPath.equals("/ProduitC")
+                || userPath.equals("/Panier")
+                || userPath.equals("/Historique")
+                || userPath.equals("/CritereLocationG")
+                || userPath.equals("/CritereLocationC")
                 || userPath.equals("/index")) {
         
             url = "/WEB-INF/view" + userPath + ".jsp";

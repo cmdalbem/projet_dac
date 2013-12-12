@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Projet_DAC-ejb" default="default" basedir="." xmlns:ejbjarproject="http://www.netbeans.org/ns/j2ee-ejbjarproject/3">
-    <description>Builds, tests, and runs the project Projet_DAC-ejb.</description>
+<project name="Projet_Beans_DAC" default="default" basedir="." xmlns:ejbjarproject="http://www.netbeans.org/ns/j2ee-ejbjarproject/3">
+    <description>Builds, tests, and runs the project Projet_Beans_DAC.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
