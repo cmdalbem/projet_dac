@@ -1,5 +1,3 @@
-/DAC/nbproject/private/
-/DAC/build/
 /Projet_DAC/Projet_DAC-war/nbproject/private/
 /Projet_DAC/Projet_DAC-ejb/nbproject/private/
 /Projet_DAC/Projet_DAC-war/build/
@@ -9,17 +7,8 @@
 
 /Projet_DAC/nbproject/private/
 
-!/Projet_DAC/nbproject/project.properties
-!/Projet_DAC/nbproject/project.xml
-
 /Projet_DAC/build/
 /Projet_DAC/dist/
-/Projet_DAC/
-/Projet_DAC/
-/Projet_DAC/
-
-# Class Files #
-*.class
 
 # Package Files #
 *.jar
