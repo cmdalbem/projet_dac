@@ -9,8 +9,3 @@
 
 /Projet_DAC/build/
 /Projet_DAC/dist/
-
-# Package Files #
-*.jar
-*.war
-*.ear
