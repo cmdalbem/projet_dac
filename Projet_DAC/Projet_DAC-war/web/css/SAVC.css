@@ -1,18 +1,18 @@
 div.SAV {
-        background-color : rgba(255,255,255,0.7);
-	font-size : 20px;
-	text-align : justify;
-	margin-top: 20px;
-	margin-bottom: 20px;
+    background-color : rgba(255,255,255,0.7);
+    font-size : 20px;
+    text-align : justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 div.texte {
-	margin : auto;
-	padding : 30px;
-	min-height: 200px;
-	width: 900px;
+    margin : auto;
+    padding : 30px;
+    min-height: 200px;
+    width: 900px;
 }
 
 p.adresse {
-	padding-left : 40px;
+    padding-left : 40px;
 }

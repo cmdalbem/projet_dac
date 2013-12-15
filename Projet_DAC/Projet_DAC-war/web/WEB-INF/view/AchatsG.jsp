@@ -6,7 +6,7 @@
         <title>Catalogue achats Glisse</title>
 
         <link rel="stylesheet" title="style1" type="text/css" href="css/BaseG.css" >
-        <link rel="stylesheet" title="style1" type="text/css" href="css/AchatsG.css" >
+        <link rel="stylesheet" title="style1" type="text/css" href="css/CatalogueG.css" >
         <link rel="stylesheet" title="style1" type="text/css" href="css/bootstrap/css/bootstrap.min.css">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +30,7 @@
                     <div class='menu'>
                         <ul class='nav nav-pills'>
                             <li class="active"> <a href='AchatsG'>Achats en ligne</a> </li>
-                            <li> <a href='LocationG'>Location</a></li>
+                            <li> <a href='MenuLocationG'>Location</a></li>
                             <li> <a href='FideliteG'>Carte de fidélité</a> </li>
                             <li> <a href='SAVG'>SAV</a> </li>
                             <li> <a href='ServicesG'>Services</a> </li>

@@ -29,7 +29,9 @@ import javax.servlet.http.HttpServletResponse;
                        "/FideliteG",
                        "/FideliteC",
                        "/LocationG",
-                       "/LocationC",
+                       "/LocationC", 
+                       "/MenuLocationG",
+                       "/MenuLocationC",
                        "/ServicesC",
                        "/ProduitG",
                        "/ProduitC",
@@ -64,6 +66,8 @@ public class NavigationlServlet extends HttpServlet {
                 || userPath.equals("/FideliteC")
                 || userPath.equals("/LocationG")
                 || userPath.equals("/LocationC")
+                || userPath.equals("/MenuLocationG")
+                || userPath.equals("/MenuLocationC")
                 || userPath.equals("/SAVG")
                 || userPath.equals("/SAVC")
                 || userPath.equals("/ServicesG")

@@ -36,7 +36,7 @@
                     <div class='menu'>
                         <ul class='nav nav-pills'>
                             <li> <a href='AchatsC'>Achats en ligne</a> </li>
-                            <li> <a href='LocationC'>Location</a></li>
+                            <li> <a href='MenuLocationC'>Location</a></li>
                             <li> <a href='FideliteC'>Carte de fidélité</a> </li>
                             <li> <a href='SAVC'>SAV</a> </li>
                             <li> <a href='ServicesC'>Services</a> </li>
@@ -70,6 +70,19 @@
                             <div class="info">
                                 <p>Grand velo<br>
                                     aluminium</p>
+                            </div>
+                            <div class="taille">
+                                <select> 
+                                    <option>Mercure</option> 
+                                    <option>Vénus</option> 
+                                    <option selected="selected">Terre</option> 
+                                    <option>Mars</option> 
+                                    <option>Jupiter</option> 
+                                    <option>Saturne</option> 
+                                    <option>Uranus</option> 
+                                    <option>Neptune</option> 
+                                    <option>Pluton</option> 
+                                </select> 
                             </div>
                         </div>
 

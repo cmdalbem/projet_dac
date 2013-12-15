@@ -1,33 +1,33 @@
 div.pub {
-	background-color : rgba(255,255,255,0.7);
-	font-size : 16px;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	height: 350px;
+    background-color : rgba(255,255,255,0.7);
+    font-size : 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 350px;
 }
 
 div.fidelite {
-	float: left;
-	width : 49%;
-	height : 250px;
-	margin-top : 60px;
+    float: left;
+    width : 49%;
+    height : 250px;
+    margin-top : 60px;
 }
 
 p.fidelite {
-	height : 30%;
-	padding-top : 20px;
-	font-size : 24px;
-	text-align : center;
+    height : 30%;
+    padding-top : 20px;
+    font-size : 24px;
+    text-align : center;
 }
 
 em {
-	font : Calibri;
-	font-size : 30px;
-	color : blue;
-	font-style : bold;
+    font : Calibri;
+    font-size : 30px;
+    color : blue;
+    font-style : bold;
 }
 
 img.fidelite {
-	float : right;
-	width : 49%;
+    float : right;
+    width : 49%;
 }

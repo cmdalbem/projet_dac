@@ -36,7 +36,7 @@
                     <div class='menu'>
                         <ul class='nav nav-pills'>
                             <li> <a href='AchatsG'>Achats en ligne</a> </li>
-                            <li> <a href='LocationG'>Location</a></li>
+                            <li> <a href='MenuLocationG'>Location</a></li>
                             <li> <a href='FideliteG'>Carte de fidélité</a> </li>
                             <li> <a href='SAVG'>SAV</a> </li>
                             <li> <a href='ServicesG'>Services</a> </li>
@@ -67,6 +67,19 @@
                             <div class="info">
                                 <p>Skis 1m50<br>
                                     Bois</p>
+                            </div>
+                            <div class="taille">
+                                <select> 
+                                    <option>Mercure</option> 
+                                    <option>Vénus</option> 
+                                    <option selected="selected">Terre</option> 
+                                    <option>Mars</option> 
+                                    <option>Jupiter</option> 
+                                    <option>Saturne</option> 
+                                    <option>Uranus</option> 
+                                    <option>Neptune</option> 
+                                    <option>Pluton</option> 
+                                </select> 
                             </div>
                         </div>
 

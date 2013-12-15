@@ -36,7 +36,7 @@
                     <div class='menu'>
                         <ul class='nav nav-pills'>
                             <li> <a href='AchatsG'>Achats en ligne</a> </li>
-                            <li> <a href='LocationG'>Location</a></li>
+                            <li> <a href='MenuLocationG'>Location</a></li>
                             <li> <a href='FideliteG'>Carte de fidélité</a> </li>
                             <li> <a href='SAVG'>SAV</a> </li>
                             <li class="active"> <a href='ServicesG'>Services</a> </li>

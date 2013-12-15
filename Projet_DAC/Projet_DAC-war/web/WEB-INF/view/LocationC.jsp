@@ -6,7 +6,7 @@
         <title>Catalogue location Cycles</title>
 
         <link rel="stylesheet" title="style1" type="text/css" href="css/BaseC.css" >
-        <link rel="stylesheet" title="style1" type="text/css" href="css/AchatsC.css" >
+        <link rel="stylesheet" title="style1" type="text/css" href="css/CatalogueC.css" >
         <link rel="stylesheet" title="style1" type="text/css" href="css/bootstrap/css/bootstrap.min.css">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +30,7 @@
                     <div class='menu'>
                         <ul class='nav nav-pills'>
                             <li> <a href='AchatsC'>Achats en ligne</a> </li>
-                            <li class="active"> <a href='LocationC'>Location</a></li>
+                            <li class="active"> <a href='MenuLocationC'>Location</a></li>
                             <li> <a href='FideliteC'>Carte de fidélité</a> </li>
                             <li> <a href='SAVC'>SAV</a> </li>
                             <li> <a href='ServicesC'>Services</a> </li>
