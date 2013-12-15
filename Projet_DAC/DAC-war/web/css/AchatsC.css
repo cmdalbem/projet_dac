@@ -1,0 +1,64 @@
+div.catalogue {
+	padding-top : 20px;
+	padding-bottom : 20px;
+	margin-top : 20px;
+	margin-bottom : 20px;
+	background-color : rgba(255,255,255,0.7);
+	height : 640px;
+}
+
+div.selection {
+	width : 14%;
+	float : left;
+	display : inline-block;
+	padding : 1%;
+}
+
+div.produits {
+	padding : 1%;
+	width : 85%;
+	float : right;
+	overflow : auto;
+	height : 600px;
+	display : inline-block;
+}
+
+div.produit {
+	display : inline-block;
+	height : 280px;
+	width : 280px;
+	background-color : grey;
+	margin : 20px;
+	padding-top:10px;
+}
+
+div.prix {
+	display : inline-block;
+	width : 60px;
+	background-color : white;
+	padding : 5px;
+	margin : 5px;	
+}
+
+img.produit {
+	margin : 5px;
+	display:inline-block;
+	height : 200px;
+	width : 200px;
+	display : block;
+	border-style : solid;
+	border-width : 3px;
+	border-color : black;
+	float : left;
+}
+
+div.info {
+	padding-right : 10px;
+	padding-left : 10px;
+	display : inline-block;
+	width : 90%;
+}
+
+p.nom {
+	font-weight : bold;
+}
